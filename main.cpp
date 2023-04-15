@@ -1,10 +1,10 @@
-#include "hostsblocker.h"
+#include "hostblocker.h"
 #include <QApplication>
 
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    HostsBlocker w;
+    HostBlocker w;
     w.show();
     return a.exec();
 }
