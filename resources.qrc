@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/assets">
+    <file>assets/locked.png</file>
+    <file>assets/unlocked.png</file>
+  </qresource>
+</RCC>
