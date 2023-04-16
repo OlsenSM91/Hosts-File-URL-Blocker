@@ -1,12 +1,3 @@
-################################################################
-# abuse.ch URLhaus Plain-Text URL List (URLs only)             #
-# Last updated: 2023-04-16 05:28:46 (UTC)                      #
-#                                                              #
-# Terms Of Use: urlhaus.abuse.ch/api/                  #
-# For questions please contact urlhaus [at] abuse.ch           #
-################################################################
-#
-# url
 120.57.81.115:49381/i
 117.217.147.41:35032/i
 223.12.11.244:41573/bin.sh
